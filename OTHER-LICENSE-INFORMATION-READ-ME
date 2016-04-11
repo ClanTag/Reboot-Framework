@@ -1,0 +1,7 @@
+Reboot Framework will be licensed under a dual-license system.
+
+If the user decides to change or modify the original code of Reboot Framework or move the code of Reboot Framework into their own projects, Reboot Framework is licensed under the GPLv3. https://www.gnu.org/licenses/gpl-3.0.html
+You must provide the full source code and open source your own work as well as the sources of any deviations of Reboot Framework if that exists.
+
+If the user decides to use only the Release binaries provided in "https://github.com/Ryukuo/Reboot-Framework/releases", Reboot Framework is licensed under WTFPL. http://www.wtfpl.net/
+You can do whatever the fuck you want with your releases and your source. 
